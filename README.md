@@ -1,3 +1,3 @@
 # Interactive Rating Component
 
-Made by Varun Maharana
+Check it out [here](https://varunmaharana.github.io/interactive-rating-component/).
