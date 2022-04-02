@@ -52,7 +52,7 @@ body {
     margin: 17px 0 22px;
 }
 
-.info h2 {
+.info h1 {
     color: hsl(0, 0%, 100%);
     margin-bottom: 14px;
 }
@@ -190,7 +190,7 @@ body {
         margin: 27px 0 25px;
     }
 
-    .info h2 {
+    .info h1 {
         color: hsl(0, 0%, 100%);
         margin-bottom: 15px;
         font-size: 30px;
